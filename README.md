@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, I'm Yoshua Alexander</h1>
+<h1 align="center">Hey 👋, I'm Yoshua Alexander</h1>
 <h3 align="center">Computer Science + Finance | The University of Texas at Dallas</h3>
 
 - 🔭 I’m currently working on [Algorithmic Neural Trading Engine (V2)](https://github.com/bforce541/algo-neural-trading)
