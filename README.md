@@ -22,10 +22,6 @@
 </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bforce541&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
