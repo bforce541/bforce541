@@ -23,11 +23,6 @@
 
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bforce541&theme=default" alt="GitHub Streak" />
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
