@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Yoshua Alexander</h1>
 <h3 align="center">Computer Science + Finance | The University of Texas at Dallas</h3>
 
-- 🔭 I’m currently working on [Algorithmic Neural Trading Engine (V2)](https://github.com/bforce541/algo-neural-trading)
+- 🔭 I’m currently working on [Autonomous Target Tracking Turret](https://github.com/bforce541/auto-track-turret)
 
 - 👯 I’m looking to collaborate on **ML, data, and full-stack development projects.**
 
