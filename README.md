@@ -1,13 +1,13 @@
-<h1 align="center">Hey 👋, I'm Yoshua Alexander</h1>
-<h3 align="center">Computer Science + Finance | The University of Texas at Dallas</h3>
+<h1 align="center">Hey , I'm Yoshua Alexander</h1>
+<h3 align="center">Computer Science & Finance | The University of Texas at Dallas</h3>
 
-- 🔭 I’m currently working on [Autonomous Target Tracking Turret](https://github.com/bforce541/auto-track-turret)
+- Currently working on [Autonomous Target Tracking Turret](https://github.com/bforce541/auto-track-turret)
 
-- 👯 I’m looking to collaborate on **ML, data, and full-stack development projects.**
+- Looking to collaborate on **ML, data, and full-stack development projects.**
 
-- 📫 How to reach me: **yoshuaalexander0@gmail.com**
+- Reach me at: **yoshuaalexander0@gmail.com**
   
-- 🌐 Website: https://yoshua-portfolio.vercel.app/
+- Website: https://yoshua-portfolio.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
