@@ -1,7 +1,6 @@
 <h1 align="center">Hey,   I'm Yoshua Alexander</h1>
 <h3 align="center">Computer Science & Finance | The University of Texas at Dallas</h3>
 
-- Currently working on [Yorn](https://yorn.vercel.app/)
 
 - Looking to collaborate on **ML, data, and full-stack development projects.**
 
