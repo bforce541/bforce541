@@ -1,4 +1,4 @@
-<h1 align="center">I'm Yoshua Alexander</h1>
+<h1 align="center">Yoshua Alexander</h1>
 <h3 align="center">Computer Science & Finance | The University of Texas at Dallas</h3>
 
 
