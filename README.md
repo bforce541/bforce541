@@ -1,7 +1,4 @@
 <p>
-  Yoshua Alexander
-</p>
-<p>
   Software engineer building AI and product-focused software.
 </p>
 
