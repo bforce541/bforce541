@@ -14,6 +14,4 @@
 
 <p>
   <a href="https://linkedin.com/in/yoshua-alexander-63aa292b4/">LinkedIn</a>
-  ·
-  <a href="https://orcid.org/0009-0000-0572-9923">ORCID</a>
 </p>
